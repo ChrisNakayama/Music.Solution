@@ -6,3 +6,4 @@ Music.Solution is a response to the request from a good friend who owns a record
 
 The base line MVP would be an API with an MVC that could create and store a music object. The music object could then be searched and displayed through the MVC. The program could offer the music object for sale. If the music object is sold, Then the program indecates that the object has sold. The program could update the music object to sold and change the category so that it was searchable, but indecate that it sold. The music object would have a key value to indecate if the object was sold or unsold.
 
+1. Research for API Technology and baseline projects to emulate. Finding what exists already and initial research. 4 hours.
