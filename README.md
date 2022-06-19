@@ -18,5 +18,7 @@ Activity and Research Log
 2. The project might change to a web app that uses the Discogs API to search and track music objects for sale. A user could search titles through Discogs, add their stock to the API and track sales. 6.19.22
 
 3. Research for Discogs API. 6.19.22
+Looking at the Discogs API 10am till 12pm
+
 
 
