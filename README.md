@@ -21,6 +21,6 @@ Activity and Research Log
 Looking at the Discogs API 10am till 12pm
 
 4. Api C# and Microsoft Cql research. ASP.NET 
-
+https://www.youtube.com/watch?app=desktop&v=vN9NRqv7xmY&feature=emb_title
 
 
