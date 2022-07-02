@@ -20,5 +20,7 @@ Activity and Research Log
 3. Research for Discogs API. 6.19.22
 Looking at the Discogs API 10am till 12pm
 
+4. Api C# and Microsoft Cql research. ASP.NET 
+
 
 
