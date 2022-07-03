@@ -24,3 +24,6 @@ Looking at the Discogs API 10am till 12pm
 https://www.youtube.com/watch?app=desktop&v=vN9NRqv7xmY&feature=emb_title
 
 https://www.youtube.com/watch?v=E7Voso411Vs
+
+5. Reached out to XRAY.FM about this capstone and set a meeting to discuss internship and work with XRAY.FM app.
+
