@@ -26,4 +26,14 @@ https://www.youtube.com/watch?app=desktop&v=vN9NRqv7xmY&feature=emb_title
 https://www.youtube.com/watch?v=E7Voso411Vs
 
 5. Reached out to XRAY.FM about this capstone and set a meeting to discuss internship and work with XRAY.FM app.
+6. React Tutorial video
+https://www.youtube.com/watch?v=bMknfKXIFA8&t=174s
+
+6. 10 Hours Research and further meeting with XRAY.FM
+4/5 three hours, 4/7 three hours, 4/14 four hours.
+API for Music Objects to MPC display.
+
+
+
+
 
